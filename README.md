@@ -6,4 +6,3 @@
 - 📫 How to reach me: Facebook, Instagram and LinkedIn
 - ⚡ Fun fact : Fun to be around 
 
-<img src="">
