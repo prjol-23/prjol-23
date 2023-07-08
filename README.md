@@ -3,7 +3,7 @@
 - 🔭 Currently working as a Web developer
 - 🌱 Currently learning <b>Some great stuffs</b>
 - 💬 Ask me about Anything!!!
-- 📫 How to reach me: Facebook, Instagram and LinkedIn!  [image](https://github.com/prjol-23/prjol-23/assets/107384960/29389b8e-cd22-4d9f-b69f-b799476b213a)
+- 📫 How to reach me: Facebook, Instagram and LinkedIn!    ![image](https://github.com/prjol-23/prjol-23/assets/107384960/9a9f104d-c2cd-4acb-b6b4-5f3949582851)
 
 - ⚡ Fun fact : We aren't in simulation
 
