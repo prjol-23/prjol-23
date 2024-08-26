@@ -1,7 +1,7 @@
 ### Hello World, It's me Prajwol and here's something about me in brief 👋
 
-- 🔭 Currently working as a Web developer
-- 🌱 And learning / exploring <b>Some great stuffs</b>
+- 🔭 Currently working as a Frontend engineer
+- 🌱 And learning / exploring <b>Some great stuffs in the realm of Computer Science and Programming</b>
 - 💬 Ask me about Anything!!!
 - 📫 How to reach me: Facebook, Instagram and LinkedIn!   
 
